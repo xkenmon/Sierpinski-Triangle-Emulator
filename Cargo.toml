@@ -1,5 +1,5 @@
 [package]
-name = "sierpinski-emulator"
+name = "sierpinski-triangle-emulator"
 version = "0.1.0"
 edition = "2021"
 
